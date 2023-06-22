@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+}
+
+.header a {
+    text-decoration: none;
+    margin-right: 25px;
+    color: black;
+}
+
+.header a:hover {
+    background-color: rgb(0, 255, 68);
+    border-radius: 25px;
+}
